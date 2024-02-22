@@ -1,8 +1,10 @@
-# React + Vite
+# Question App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Kullanılan Teknolojiler
+1. React
+2. JavaScript
+3. CSS
+4. HTML
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Bugüne kadar girmiş olduğunuz tüm quizleri unutun! React.js ile yazmış olduğum bu keyifli projenin canlı haline "About" kısmında bulunan linkten ulaşabilirsiniz.
